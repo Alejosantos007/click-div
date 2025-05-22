@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+.divpro {
+    background-color: blueviolet;
+    border-radius: 10%;
+    border-style:double;
+    border-color: aliceblue;
+    color: greenyellow;
+    width: 5%;
+    display: flex;
+    float: inline-start;
+    margin-left: 10px;
+}
